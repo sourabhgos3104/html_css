@@ -1,0 +1,11 @@
+.parent{
+
+    display: flex;
+    
+    }
+    h1{
+        background-color: pink;
+        border: 2px solid red;
+        margin: 20px;
+        padding: 20px;
+    }
