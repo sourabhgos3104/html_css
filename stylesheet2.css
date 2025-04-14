@@ -1,0 +1,11 @@
+.wrapper{
+    background-color: red;
+    padding: left 20px; ;
+    margin: 30px;
+    border: 13px solid green;
+    border-radius: 30px;
+
+    box-shadow: 3px 4px 5px 6px black;
+}
+
+
