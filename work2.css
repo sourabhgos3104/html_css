@@ -1,0 +1,15 @@
+.parent{
+
+
+
+    display: flex;
+    justify-content: space-evenly;
+    padding: 100px;
+    align-items: center;
+
+}
+
+button{
+    margin-top: 20px;
+    background-color: red;
+}
