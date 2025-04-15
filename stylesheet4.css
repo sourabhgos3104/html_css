@@ -1,0 +1,18 @@
+.container{
+
+    background-color:blueviolet;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 100px;
+    align-items: center;
+    }
+   button{ background-color: red;
+       color: whitesmoke;
+   
+       
+   }
+   h1{
+       font-size: small;
+   }
+   
+   
