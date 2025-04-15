@@ -1,0 +1,51 @@
+.twitter{
+    border: solid black;
+    padding:20px ;
+    text-align: center;
+    margin: 20px;
+    button{background-color: black;
+        color: white;
+        border-radius: 30px;
+        border: 30px;
+        
+    }
+    
+    }
+    
+    .instagram{
+        border: solid black;
+        padding: 20px;
+        text-align: center;
+    margin: 20px;
+    
+    
+    button{background-color: black;
+        color: white;
+        border-radius: 30px;
+        border: 30px;
+    
+    }
+    }
+    
+    
+    .youtube{
+        border: solid black;
+        padding: 20px;
+        text-align: center;
+    margin: 20px;
+    
+    button{background-color: black;
+        color: white;
+        border-radius: 30px;
+        border: 30px;
+        
+    
+    }
+    }
+    
+    .socialmedia{
+        display: flex;
+        
+        
+    }
+    
