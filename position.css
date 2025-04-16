@@ -1,0 +1,16 @@
+.wrapper{
+
+    background-color: red;
+    height: 300px;
+    width: ;
+    margin-top: 100px;
+    }
+    
+    .ch{
+    
+        background-color: blue;
+        height: 200px;
+        width: 200px;
+        position: relative;
+        top: 50px;
+    }
