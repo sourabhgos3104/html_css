@@ -1,0 +1,37 @@
+* body{
+    margin: 0px;
+}
+
+
+.navbar{
+
+background-color: yellow;
+display: flex;
+justify-content: space-evenly;
+align-items: center;
+position: sticky;
+height: 100px;
+
+}
+.navbar ul{
+display: flex;
+gap: 30px;
+list-style: none;
+
+
+
+
+
+}
+.hero1{
+    
+    background-size: cover;
+    height: 100vh;
+}
+.hero{
+
+
+
+
+
+}
