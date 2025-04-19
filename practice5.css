@@ -1,0 +1,23 @@
+input::placeholder {
+    color: blue;
+    padding: 40px;
+}
+p::selection {
+  color: aqua;
+  background-color: green;
+  
+}
+p{
+    font-family: "Special Gothic Expanded One", sans-serif;
+    font-family: "Bungee Spice", sans-serif;
+}
+
+.name::after {
+    content: "go on the way";
+    color: brown;
+}
+.name::before{
+
+    content: "here";
+    color: blue;
+}
