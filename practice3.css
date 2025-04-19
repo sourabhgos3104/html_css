@@ -1,0 +1,15 @@
+h1{
+    font-family: "Special Gothic Expanded One", sans-serif;
+}
+h2{
+
+    font-family: "Bungee Spice", sans-serif;
+}
+.name::after{
+    content: "goswami";
+    color: brown;
+}
+.name::before{
+    content: "Mr.";
+    color: aqua;
+}
