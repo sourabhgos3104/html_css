@@ -1,0 +1,13 @@
+.wrapper{
+    background-color: tomato;
+    color: white;
+    padding-top: 30px;
+    padding-left: 100px;
+    margin: 30px;
+    border-top-left-radius: 30px ;
+    border-bottom-right-radius: 40px;
+    width: 90%;
+    height: 200px;
+    border: 13px solid greenyellow;
+    box-shadow: 3px 14px 16px 17px black;
+}
