@@ -1,0 +1,36 @@
+.main{
+
+    
+    
+    display: flex;
+        justify-content: space-around;
+        flex-wrap: wrap-reverse;
+        
+    }
+    div{
+    height: 200px;
+    width: 200px;
+    background-color: red;
+    border: 2px solid black;
+    
+    }
+    .div1{
+        background-color: red;
+    }
+    .div2{
+        background-color: green;
+    }
+    .div3{
+        background-color: blue;
+    }
+    
+
+    @media screen and (max-width:600px) and (min-width:100px){
+
+        body{
+        background-color: greenyellow;
+        }
+        
+    }
+    
+    
