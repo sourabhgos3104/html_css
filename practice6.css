@@ -1,0 +1,11 @@
+.parent{
+    
+    display: flex;
+    justify-content:center;
+    justify-content: space-evenly;
+    
+    background-image: url(bureger2.jpg);
+    height: 600px;
+    
+    border: 30px solid;
+}
